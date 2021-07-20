@@ -1,4 +1,4 @@
-### Zoom Call Logbook
+### Zoom Lecture Logbook
 
   * IceBreaker
     * Island, Book, Food
@@ -34,3 +34,5 @@
   * Post-Boot camp: Career readiness Boot camp
   * Lectures always 10am-12pm
   * Tech Interviews are scheduled
+  * Lighthouse Labs Diploma - College Diploma
+  * No Zoom Call tomorrow, Wed, July 21.
