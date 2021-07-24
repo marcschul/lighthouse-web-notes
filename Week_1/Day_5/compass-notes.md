@@ -1,6 +1,7 @@
 ### Compass-notes
 
-  * created lotide functions
+  * Created lotide functions
     * countLetters
     * letterPositions
     * findKeyByValue
+  * Updated notes with Mentor Hours

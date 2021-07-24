@@ -15,10 +15,10 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 ```
 
 ### Notes taken
-* [Week 1](/Week_1)
-  * [Day 1](/Week_1/Day_1)
-  * [Day 2](/Week_1/Day_2)
-  * [Day 3](/Week_1/Day_3)
-  * [Day 4](/Week_1/Day_4)
-  * [Day 5](/Week_1/Day_5)
+* [Week 1](/Week_1) - *July 18th to July 24th, 2021*
+  * [Day 1](/Week_1/Day_1) - *July 19th, 2021*
+  * [Day 2](/Week_1/Day_2) - *July 20th, 2021*
+  * [Day 3](/Week_1/Day_3) - *July 21st, 2021*
+  * [Day 4](/Week_1/Day_4) - *July 22nd, 2021*
+  * [Day 5](/Week_1/Day_5) - *July 23rd, 2021*
 
