@@ -12,10 +12,10 @@
         * Ask Hobby
         * Introduce yourself
         * Don't talk about politics or Religion
-    * 3 Gates of Inforomation before talking
+    * 3 Gates of Information before talking
         1. Is it necessary to say?
         3. Is it true?
-        3. Can you say it with kindess?
+        3. Can you say it with kindness?
 ## Compass
 ### `this` Keyword
   * `this` keyword refers to the object the method (function) was called on.
