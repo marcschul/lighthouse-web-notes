@@ -1,4 +1,5 @@
 # Compass Notes
+*August 2nd, 2021*
 ## Pair Programming
   * VSCode LiveShare
   * SoftSkills

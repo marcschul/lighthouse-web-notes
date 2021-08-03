@@ -34,11 +34,11 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
   * Day 6 - *July 31st, 2021*
 ### Week 3 - August 1st to August 7th, 2021
 * [Week 3](/Week_3)
-  * [Day 1](Week_3/Day_1) - *Aug 1st, 2021*
-  * [Day 2](Week_3/Day_2) - *Aug 2nd, 2021*
-  * [Day 3](Week_3/Day_3) - *Aug 3rd, 2021*
-  * [Day 4](Week_3/Day_4) - *Aug 4th, 2021*
-  * [Day 5](Week_3/Day_5) - *Aug 5th, 2021*
+  * [Day 1](Week_3/Day_1) - *August 2st, 2021*
+  * [Day 2](Week_3/Day_2) - *August 3rd, 2021*
+  * [Day 3](Week_3/Day_3) - *August 4th, 2021*
+  * [Day 4](Week_3/Day_4) - *August 5th, 2021*
+  * [Day 5](Week_3/Day_5) - *August 6th, 2021*
 
 
 
