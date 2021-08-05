@@ -32,7 +32,7 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 </details>
 
 ---
-### Objects, Callbacks, Func, Higher-Order, this
+### Objects, Callbacks, Func, Higher-Order, this Keyword
 <details>
 <summary> Week 2 - July 25th to July 31st, 2021 </summary>
 
@@ -43,7 +43,7 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 </details>
 
 ---
-### Recursion, npm, packages, module, TDD, Moch, Chai
+### Recursion, npm, Packages, Module, TDD, Moch, Chai, Classes
 <details>
 <summary> Week 3 - August 1st to August 7th, 2021 </summary>
 
