@@ -52,7 +52,19 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
   * [Day 2](Week_3/Day_2) - *August 3rd, 2021*
   * [Day 3](Week_3/Day_3) - *August 4th, 2021*
   * [Day 4](Week_3/Day_4) - *August 5th, 2021*
-  * [Day 5](Week_3/Day_5) - *August 6th, 2021*
+</details>
+
+---
+### Object Orientated Programming
+<details>
+<summary> Week 4 - August 8th to August 14th, 2021 </summary>
+
+* [Week 4](/Week_4)
+  * [Day 1](Week_4/Day_1) - *August 8th, 2021*
+  * [Day 2](Week_4/Day_2) - *August 9th, 2021*
+  * [Day 3](Week_4/Day_3) - *August 10th, 2021*
+  * [Day 4](Week_4/Day_4) - *August 11th, 2021*
+  * [Day 5](Week_4/Day_5) - *August 12th, 2021*
 </details>
 
 
