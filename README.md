@@ -66,5 +66,17 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
   * [Day 4](Week_4/Day_4) - *August 12th, 2021*
 </details>
 
+---
+### Networking
+<details>
+<summary> Week 5 - August 15th to August 21st, 2021 </summary>
+
+* [Week 5](/Week_5)
+  * [Day 1](Week_5/Day_1) - *August 16th, 2021*
+  * [Day 2](Week_5/Day_2) - *August 17th, 2021*
+  * [Day 3](Week_5/Day_3) - *August 18th, 2021*
+  * [Day 4](Week_5/Day_4) - *August 19th, 2021*
+</details>
+
 
 
