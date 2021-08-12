@@ -55,16 +55,15 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 </details>
 
 ---
-### Object Orientated Programming
+### Object Orientated Programming, npm, Asyn + Sync Flows, Events
 <details>
 <summary> Week 4 - August 8th to August 14th, 2021 </summary>
 
 * [Week 4](/Week_4)
-  * [Day 1](Week_4/Day_1) - *August 8th, 2021*
-  * [Day 2](Week_4/Day_2) - *August 9th, 2021*
-  * [Day 3](Week_4/Day_3) - *August 10th, 2021*
-  * [Day 4](Week_4/Day_4) - *August 11th, 2021*
-  * [Day 5](Week_4/Day_5) - *August 12th, 2021*
+  * [Day 1](Week_4/Day_1) - *August 9th, 2021*
+  * [Day 2](Week_4/Day_2) - *August 10th, 2021*
+  * [Day 3](Week_4/Day_3) - *August 11th, 2021*
+  * [Day 4](Week_4/Day_4) - *August 12th, 2021*
 </details>
 
 
