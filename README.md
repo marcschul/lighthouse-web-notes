@@ -17,6 +17,8 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 ## Notes
 <br>
 
+### Module 1
+---
 ### General, eslint, markdown, es6
 
 <details>
@@ -66,6 +68,10 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
   * [Day 4](Week_4/Day_4) - *August 12th, 2021*
 </details>
 
+<br>
+<br>
+
+### Module 2
 ---
 ### Networking
 <details>
