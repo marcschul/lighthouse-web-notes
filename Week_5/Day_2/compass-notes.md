@@ -1,5 +1,5 @@
 # Compass notes
-*August 16th, 2021*
+*August 17th, 2021*
 ## Networking
   * every time our browser accesses a website, it makes an HTTP request by opening a TCP connection on port 80 (or 443 for https) to a given HTTP server's IP address. It then sends text-based commands such as GET /path-to-page HTTP/1.1\r\n along with many other request headers (such as the user agent string, etc.) and waits for a response from the server.
   * `request` module simplifies the process of http requests. It's not built in, so a npm install is required.
