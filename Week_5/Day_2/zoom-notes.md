@@ -55,7 +55,7 @@ client.on('connect', () => {
 ```
   * `client.write('sends a message back to the server')`
 
-### DNS - Domain Name Server
+### DNS - Domain Name System
   * Domain Name Server
   * Maps a name to an IP address
   * exmaple: `www.google.com` -> DNS -> `ipaddress`

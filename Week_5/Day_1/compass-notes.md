@@ -20,8 +20,10 @@
   ## HTTP HyperText Transfer Protocol
   ---
   * `HTTP` is the "language" that both client and server use to communicate over a TCP connection.
-  * `HTTP` is a request-response based protocol. A client makes a request to an HTTP server, immediately also sending a message asking for a specific resource, which the server sends down as a response. A server cannot send a response to a client if the client has not first sent a request
+  * `HTTP` is a request-response based protocol.
   * `HTTP` Requests - Client wants to communicate with a server it issues a request
+  * `HTTP` Response - Server wants to communicate with a client it issues a response
+  * A server cannot send a response to a client if the client has not first sent a request
 ### HTTP Requests - Paths & Methods
   * `HTTP` has many components. Two of interests are **PATH** and **METHOD**
   * `GET`: used to "get" some data from the server
