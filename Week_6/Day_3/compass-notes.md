@@ -8,4 +8,7 @@
   * `./node_modules/.bin/nodemon -L express_server.js` starts nodemon
     * the `-L` flag is used for files in a shared filesystem such as vagrant
   
+### Web Servers
+  * req.body takes from body
+  * req.params takes from address bar
   // git reset head
