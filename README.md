@@ -89,7 +89,7 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 
 ### Module 3
 ---
-### Web Servers, Express, EJS
+### Application Fundamentals, Web Servers, Express, EJS
 <details>
 <summary> Week 6 - August 22nd to August 28th, 2021 </summary>
 
@@ -99,6 +99,21 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
   * [Day 3](Week_6/Day_3) - *August 25th, 2021*
   * [Day 4](Week_6/Day_4) - *August 26th, 2021*
 </details>
+
+---
+### Application Fundamentals, Express, EJS, Cookies, Databases
+<details>
+<summary> Week 7 - August 29th to September 4th, 2021 </summary>
+
+* [Week 7](/Week_7)
+  * [Day 1](Week_7/Day_1) - *August 30th, 2021*
+  * [Day 2](Week_7/Day_2) - *August 31st, 2021*
+  * [Day 3](Week_7/Day_3) - *September 1st, 2021*
+  * [Day 4](Week_7/Day_4) - *September 2nd, 2021*
+</details>
+
+<br>
+<br>
 
 
 
