@@ -45,7 +45,7 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 </details>
 
 ---
-### Recursion, npm, Packages, Module, TDD, Moch, Chai, Classes
+### Recursion, npm, Packages, Module, TDD, Mocha, Chai, Classes
 <details>
 <summary> Week 3 - August 1st to August 7th, 2021 </summary>
 
@@ -73,7 +73,7 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 
 ### Module 2
 ---
-### Networking
+### Networking - TCP, HTTP, Protocols, stdin/out, JSON, APIs
 <details>
 <summary> Week 5 - August 15th to August 21st, 2021 </summary>
 
