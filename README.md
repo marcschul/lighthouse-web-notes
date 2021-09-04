@@ -94,7 +94,7 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 <summary> Week 6 - August 22nd to August 28th, 2021 </summary>
 
 * [Week 6](/Week_6)
-  * [Day 1](Week_6/Day_1) - *August 23rd 2021*
+  * [Day 1](Week_6/Day_1) - *August 23rd, 2021*
   * [Day 2](Week_6/Day_2) - *August 24th, 2021*
   * [Day 3](Week_6/Day_3) - *August 25th, 2021*
   * [Day 4](Week_6/Day_4) - *August 26th, 2021*
@@ -114,6 +114,18 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 <br>
 <br>
 
+### Module 4
+---
+### CSS, Client side Javascript & JQuery
+<details>
+<summary> Week 8 - September 5th to September 11th, 2021 </summary>
+
+* [Week 8](/Week_8)
+  * [Day 1](Week_8/Day_1) - *September 6th, 2021*
+  * [Day 2](Week_8/Day_2) - *September 7th, 2021*
+  * [Day 3](Week_8/Day_3) - *September 8th, 2021*
+  * [Day 4](Week_8/Day_4) - *September 9th, 2021*
+</details>
 
 
 
