@@ -43,3 +43,7 @@ strong (<strong>)
   display: flex;
 }
 ```
+### z-index: #
+  * css rule
+  * applied to bring elements to the front or back of the stack.
+  * controls what elements are visible to users
