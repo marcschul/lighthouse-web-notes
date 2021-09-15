@@ -17,7 +17,7 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 ## Notes
 <br>
 
-### Module 1
+### Module 1 - The Basics
 ---
 ### General, eslint, markdown, es6
 
@@ -71,7 +71,7 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 <br>
 <br>
 
-### Module 2
+### Module 2 - Web Technologies
 ---
 ### Networking - TCP, HTTP, Protocols, stdin/out, JSON, APIs
 <details>
@@ -87,7 +87,7 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 <br>
 <br>
 
-### Module 3
+### Module 3 - Back End
 ---
 ### Application Fundamentals, Web Servers, Express, EJS
 <details>
@@ -114,9 +114,9 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 <br>
 <br>
 
-### Module 4
+### Module 4 - Front End
 ---
-### CSS, Client side Javascript & JQuery
+### HTML, CSS, DOM, Client side Javascript & JQuery
 <details>
 <summary> Week 8 - September 5th to September 11th, 2021 </summary>
 
@@ -125,6 +125,18 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
   * [Day 2](Week_8/Day_2) - *September 7th, 2021*
   * [Day 3](Week_8/Day_3) - *September 8th, 2021*
   * [Day 4](Week_8/Day_4) - *September 9th, 2021*
+</details>
+
+---
+### Ajax, DOM, HTML, CSS
+<details>
+<summary> Week 9 - September 12th to September 18th, 2021 </summary>
+
+* [Week 9](/Week_9)
+  * [Day 1](Week_9/Day_1) - *September 13th, 2021*
+  * [Day 2](Week_9/Day_2) - *September 14th, 2021*
+  * [Day 3](Week_9/Day_3) - *September 15th, 2021*
+  * [Day 4](Week_9/Day_4) - *September 16th, 2021*
 </details>
 
 

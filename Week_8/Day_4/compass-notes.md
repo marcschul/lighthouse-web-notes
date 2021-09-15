@@ -3,6 +3,7 @@
 ### DOM - Document Object Model
   * Structure - Tree with nodes
   * Parents and Children
+    * You can access parents/children with `document.body.parent` or `document.body.children[0]`
   * Not language specific
   * Apps do not listen to events unless told too.
   * To set up your app to respond to events:
