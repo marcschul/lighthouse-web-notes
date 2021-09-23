@@ -135,9 +135,17 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 * [Week 9](/Week_9)
   * [Day 1](Week_9/Day_1) - *September 13th, 2021*
   * [Day 2](Week_9/Day_2) - *September 14th, 2021*
-  * [Day 3](Week_9/Day_3) - *September 15th, 2021*
-  * [Day 4](Week_9/Day_4) - *September 16th, 2021*
 </details>
 
+---
+### Responsive Design, Algorithms, Quadratic, Big O Nation
+<details>
+<summary> Week 10 - September 19th to September 25th, 2021 </summary>
 
+* [Week 10](/Week_10)
+  * [Day 1](Week_9/Day_1) - *September 20th, 2021*
+  * [Day 2](Week_9/Day_2) - *September 21st, 2021*
+  * [Day 3](Week_9/Day_3) - *September 22nd, 2021*
+  * [Day 4](Week_9/Day_4) - *September 23rd, 2021*
+</details>
 
