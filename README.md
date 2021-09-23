@@ -147,3 +147,19 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
   * [Day 2](Week_10/Day_2) - *September 21st, 2021*
 </details>
 
+<br>
+<br>
+
+### Module 5 - Relational Databases & SQL
+---
+### SQL, Database Design
+<details>
+<summary> Week 11 - September 26th to October 2nd, 2021 </summary>
+
+* [Week 11](/Week_8)
+  * [Day 1](Week_11/Day_1) - *September 27th, 2021*
+  * [Day 2](Week_11/Day_2) - *September 28th, 2021*
+  * [Day 3](Week_11/Day_3) - *September 29th, 2021*
+  * [Day 4](Week_11/Day_4) - *September 30th, 2021*
+</details>
+

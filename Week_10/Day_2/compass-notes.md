@@ -53,9 +53,12 @@ console.log(result); // 1
 
 ### `O()` - Big O Notation
   * Algorithmic efficiency
-  * How fast a function grows or declines.
+  * How fast a function grows or declines
+  * Only care about arbitrarily large input
+  * Drop the Non-Dominant Terms
+  * Drop Constants eg. `1`
 
-|`O`| Complexity | Rate of Growth |
+|`O` running times| Complexity | Rate of Growth |
 |---|---|---|
 |`O(1)`| constant	| none |
 |`O(n)`| linear time | fast|
