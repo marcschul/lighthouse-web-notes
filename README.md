@@ -159,7 +159,6 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 * [Week 11](/Week_8)
   * [Day 1](Week_11/Day_1) - *September 27th, 2021*
   * [Day 2](Week_11/Day_2) - *September 28th, 2021*
-  * [Day 3](Week_11/Day_3) - *September 29th, 2021*
   * [Day 4](Week_11/Day_4) - *September 30th, 2021*
 </details>
 
