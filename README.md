@@ -152,13 +152,48 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 
 ### Module 5 - Relational Databases & SQL
 ---
-### SQL, Database Design
+### SQL, PostgreSQL, Database Design
 <details>
 <summary> Week 11 - September 26th to October 2nd, 2021 </summary>
 
-* [Week 11](/Week_8)
+* [Week 11](/Week_11)
   * [Day 1](Week_11/Day_1) - *September 27th, 2021*
   * [Day 2](Week_11/Day_2) - *September 28th, 2021*
   * [Day 4](Week_11/Day_4) - *September 30th, 2021*
 </details>
+---
 
+### Data Structure SQL, Database Design, Injection, NodeSQL 
+<details>
+<summary> Week 12 - October 3rd to October 9th, 2021 </summary>
+
+* [Week 12](/Week_12)
+  * [Day 1](Week_12/Day_1) - *October 4h, 2021*
+  * [Day 2](Week_12/Day_2) - *October 5th, 2021*
+  * [Day 4](Week_12/Day_4) - *October 7th, 2021*
+</details>
+---
+
+### Data Structure, SQL, Node-Postgres, Interview
+<details>
+<summary> Week 13 - October 10th to October 16th, 2021 </summary>
+
+* [Week 13](/Week_13)
+  * [Day 1](Week_13/Day_1) - *October 11th, 2021*
+  * [Day 2](Week_13/Day_2) - *October 12th, 2021*
+</details>
+
+<br>
+<br>
+
+### Module 6 - Midterm Project
+---
+### Notes for project
+<details>
+<summary> Week 14 - October 17th to October 23rd, 2021 </summary>
+
+* [Week 14](/Week_14)
+  * [Day 2](Week_14/Day_2) - *October 19th, 2021*
+  * [Day 3](Week_14/Day_3) - *October 20th, 2021*
+  * [Day 4](Week_14/Day_4) - *October 21th, 2021*
+</details>
