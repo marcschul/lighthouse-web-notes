@@ -190,10 +190,23 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 ---
 ### Notes for project
 <details>
-<summary> Week 14 - October 17th to October 23rd, 2021 </summary>
+<summary> Week 14_15 - October 17th to October 30th, 2021 </summary>
 
-* [Week 14](/Week_14)
-  * [Day 2](Week_14/Day_2) - *October 19th, 2021*
-  * [Day 3](Week_14/Day_3) - *October 20th, 2021*
-  * [Day 4](Week_14/Day_4) - *October 21th, 2021*
+* [Week 14](/Week_14_15)
+  * [Day 2](Week_14_15/Day_2) - *October 19th, 2021*
+  * [Day 3](Week_14_15/Day_3) - *October 20th, 2021*
+  * [Day 4](Week_14_15/Day_4) - *October 21th, 2021*
 </details>
+
+### Module 7 - Javascript - React
+---
+### React
+<details>
+<summary> Week 16 - October 31st to November 6th, 2021 </summary>
+
+* [Week 14](/Week_16)
+  * [Day 2](Week_16/Day_1) - *October 31st, 2021*
+  * [Day 3](Week_16/Day_2) - *November 1st, 2021*
+  * [Day 4](Week_16/Day_3) - *November 2nd, 2021*
+</details>
+
