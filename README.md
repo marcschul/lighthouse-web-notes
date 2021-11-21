@@ -161,6 +161,7 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
   * [Day 2](Week_11/Day_2) - *September 28th, 2021*
   * [Day 4](Week_11/Day_4) - *September 30th, 2021*
 </details>
+
 ---
 
 ### Data Structure SQL, Database Design, Injection, NodeSQL 
@@ -172,6 +173,7 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
   * [Day 2](Week_12/Day_2) - *October 5th, 2021*
   * [Day 4](Week_12/Day_4) - *October 7th, 2021*
 </details>
+
 ---
 
 ### Data Structure, SQL, Node-Postgres, Interview
@@ -192,21 +194,45 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 <details>
 <summary> Week 14_15 - October 17th to October 30th, 2021 </summary>
 
-* [Week 14](/Week_14_15)
+* [Week 14_15](/Week_14_15)
   * [Day 2](Week_14_15/Day_2) - *October 19th, 2021*
   * [Day 3](Week_14_15/Day_3) - *October 20th, 2021*
   * [Day 4](Week_14_15/Day_4) - *October 21th, 2021*
 </details>
 
-### Module 7 - Javascript - React
+<br>
+<br>
+
+### Module 7 - Javascript - React, Components, States
 ---
 ### React
 <details>
 <summary> Week 16 - October 31st to November 6th, 2021 </summary>
 
-* [Week 14](/Week_16)
+* [Week 16](/Week_16)
   * [Day 1](Week_16/Day_1) - *October 31st, 2021*
   * [Day 2](Week_16/Day_2) - *November 1st, 2021*
   * [Day 3](Week_16/Day_3) - *November 2nd, 2021*
+</details>
+
+---
+### React - TDD, Tooling, Project Setup
+<details>
+<summary> Week 17 - November 7th to November 13th, 2021 </summary>
+
+* [Week 17](/Week_17)
+  * [Day 1](Week_17/Day_1) - *November 8th, 2021*
+  * [Day 2](Week_17/Day_2) - *November 9th, 2021*
+</details>
+
+---
+### React - Custom Hooks, Hooks, Data Fetching, APIs, Axios
+<details>
+<summary> Week 18 - November 14th to November 20th, 2021 </summary>
+
+* [Week 18](/Week_18)
+  * [Day 1](Week_18/Day_1) - *November 15th, 2021*
+  * [Day 2](Week_18/Day_2) - *November 16th, 2021*
+  * [Day 4](Week_18/Day_4) - *November 18th, 2021*
 </details>
 
