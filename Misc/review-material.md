@@ -10,3 +10,5 @@
     * Read TCP again, Understand request headers/body status codes
   * APIs, RESTful APIs
     * API's are a generic term for two applications to communicate. This can be in any coding language. Practice using APIs within web apps
+  * Javascript Matrix problems (nested looping / iterations)
+  * Javascript methods => .map(), .filter(), find(), includes()

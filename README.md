@@ -236,3 +236,14 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
   * [Day 4](Week_18/Day_4) - *November 18th, 2021*
 </details>
 
+---
+### React - Error Handling, Refactoring, Immutable Patterns
+<details>
+<summary> Week 19 - November 21st, to November 27th, 2021 </summary>
+
+* [Week 19](/Week_19)
+  * [Day 2](Week_19/Day_2) - *November 23rd, 2021*
+  * [Day 3](Week_19/Day_3) - *November 24th, 2021*
+</details>
+
+
