@@ -246,4 +246,46 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
   * [Day 3](Week_19/Day_3) - *November 24th, 2021*
 </details>
 
+<br>
+<br>
+
+### Module 8 - TDD \w React, Cypress, Jest, React Class Components
+---
+### React TDD, Jest
+<details>
+<summary> Week 20 - November 28th to December 4th, 2021 </summary>
+
+* [Week 20](/Week_20)
+  * [Day 1](Week_20/Day_1) - *November 29th, 2021*
+  * [Day 2](Week_20/Day_2) - *November 30th, 2021*
+  * [Day 3](Week_20/Day_3) - *December 1st, 2021*
+  * [Day 4](Week_20/Day_4) - *December 2nd, 2021*
+</details>
+
+### React Cypress, Class Components \w React
+<details>
+<summary> Week 21 - December 5th to December 11th, 2021 </summary>
+
+* [Week 21](/Week_21)
+  * [Day 2](Week_21/Day_2) - *December 7th, 2021*
+  * [Day 4](Week_21/Day_4) - *December 9th, 2021*
+</details>
+
+<br>
+<br>
+
+### Module 9 - Ruby on Rails
+---
+### Intro to Ruby
+<details>
+<summary> Week 22 - December 12th to December 18th, 2021 </summary>
+
+* [Week 22](/Week_22)
+  * [Day 2](Week_22/Day_2) - *December 14th, 2021*
+  * [Day 3](Week_22/Day_3) - *December 15th, 2021*
+  * [Day 4](Week_22/Day_4) - *December 16th, 2021*
+  * [Day 1](Week_22/Day_5) - *December 17th, 2021*
+</details>
+
+
 

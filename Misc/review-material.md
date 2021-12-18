@@ -12,3 +12,9 @@
     * API's are a generic term for two applications to communicate. This can be in any coding language. Practice using APIs within web apps
   * Javascript Matrix problems (nested looping / iterations)
   * Javascript methods => .map(), .filter(), find(), includes()
+
+### APIs - Application Programming Interface
+  * API is a very vague and general term. eg. Vehicle, Food, ect.
+  * an API is a Concept, NOT a technology
+  * You can build web API using different technologies, Java, .NET, Nodejs
+  * In contrast to a user interface, which connects a computer to a person, an application programming interface connects computers or pieces of software to each other.
