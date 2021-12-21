@@ -24,13 +24,13 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 <details>
 <summary> Week 1 - July 18th to July 24th, 2021 </summary>
 
-* [Week 1](/Week_1)
-  * [Day 1](/Week_1/Day_1) - *July 19th, 2021*
-  * [Day 2](/Week_1/Day_2) - *July 20th, 2021*
-  * [Day 3](/Week_1/Day_3) - *July 21st, 2021*
-  * [Day 4](/Week_1/Day_4) - *July 22nd, 2021*
-  * [Day 5](/Week_1/Day_5) - *July 23rd, 2021*
-  * [Day 6](/Week_1/Day_6) - *July 24rd, 2021*
+* [Week 1](/Week_01)
+  * [Day 1](/Week_01/Day_1) - *July 19th, 2021*
+  * [Day 2](/Week_01/Day_2) - *July 20th, 2021*
+  * [Day 3](/Week_01/Day_3) - *July 21st, 2021*
+  * [Day 4](/Week_01/Day_4) - *July 22nd, 2021*
+  * [Day 5](/Week_01/Day_5) - *July 23rd, 2021*
+  * [Day 6](/Week_01/Day_6) - *July 24rd, 2021*
 </details>
 
 ---
@@ -38,9 +38,9 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 <details>
 <summary> Week 2 - July 25th to July 31st, 2021 </summary>
 
-* [Week 2](/Week_2)
-  * [Day 2](/Week_2/Day_2) - *July 27th, 2021*
-  * [Day 4](/Week_2/Day_4) - *July 29th, 2021*
+* [Week 2](/Week_02)
+  * [Day 2](/Week_02/Day_2) - *July 27th, 2021*
+  * [Day 4](/Week_02/Day_4) - *July 29th, 2021*
 
 </details>
 
@@ -49,11 +49,11 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 <details>
 <summary> Week 3 - August 1st to August 7th, 2021 </summary>
 
-* [Week 3](/Week_3)
-  * [Day 1](Week_3/Day_1) - *August 2st, 2021*
-  * [Day 2](Week_3/Day_2) - *August 3rd, 2021*
-  * [Day 3](Week_3/Day_3) - *August 4th, 2021*
-  * [Day 4](Week_3/Day_4) - *August 5th, 2021*
+* [Week 3](/Week_03)
+  * [Day 1](Week_03/Day_1) - *August 2st, 2021*
+  * [Day 2](Week_03/Day_2) - *August 3rd, 2021*
+  * [Day 3](Week_03/Day_3) - *August 4th, 2021*
+  * [Day 4](Week_03/Day_4) - *August 5th, 2021*
 </details>
 
 ---
@@ -61,11 +61,11 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 <details>
 <summary> Week 4 - August 8th to August 14th, 2021 </summary>
 
-* [Week 4](/Week_4)
-  * [Day 1](Week_4/Day_1) - *August 9th, 2021*
-  * [Day 2](Week_4/Day_2) - *August 10th, 2021*
-  * [Day 3](Week_4/Day_3) - *August 11th, 2021*
-  * [Day 4](Week_4/Day_4) - *August 12th, 2021*
+* [Week 4](/Week_04)
+  * [Day 1](Week_04/Day_1) - *August 9th, 2021*
+  * [Day 2](Week_04/Day_2) - *August 10th, 2021*
+  * [Day 3](Week_04/Day_3) - *August 11th, 2021*
+  * [Day 4](Week_04/Day_4) - *August 12th, 2021*
 </details>
 
 <br>
@@ -77,11 +77,11 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 <details>
 <summary> Week 5 - August 15th to August 21st, 2021 </summary>
 
-* [Week 5](/Week_5)
-  * [Day 1](Week_5/Day_1) - *August 16th, 2021*
-  * [Day 2](Week_5/Day_2) - *August 17th, 2021*
-  * [Day 3](Week_5/Day_3) - *August 18th, 2021*
-  * [Day 4](Week_5/Day_4) - *August 19th, 2021*
+* [Week 5](/Week_05)
+  * [Day 1](Week_05/Day_1) - *August 16th, 2021*
+  * [Day 2](Week_05/Day_2) - *August 17th, 2021*
+  * [Day 3](Week_05/Day_3) - *August 18th, 2021*
+  * [Day 4](Week_05/Day_4) - *August 19th, 2021*
 </details>
 
 <br>
@@ -93,11 +93,11 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 <details>
 <summary> Week 6 - August 22nd to August 28th, 2021 </summary>
 
-* [Week 6](/Week_6)
-  * [Day 1](Week_6/Day_1) - *August 23rd, 2021*
-  * [Day 2](Week_6/Day_2) - *August 24th, 2021*
-  * [Day 3](Week_6/Day_3) - *August 25th, 2021*
-  * [Day 4](Week_6/Day_4) - *August 26th, 2021*
+* [Week 6](/Week_06)
+  * [Day 1](Week_06/Day_1) - *August 23rd, 2021*
+  * [Day 2](Week_06/Day_2) - *August 24th, 2021*
+  * [Day 3](Week_06/Day_3) - *August 25th, 2021*
+  * [Day 4](Week_06/Day_4) - *August 26th, 2021*
 </details>
 
 ---
@@ -105,10 +105,10 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 <details>
 <summary> Week 7 - August 29th to September 4th, 2021 </summary>
 
-* [Week 7](/Week_7)
-  * [Day 1](Week_7/Day_1) - *August 30th, 2021*
-  * [Day 2](Week_7/Day_2) - *August 31st, 2021*
-  * [Day 4](Week_7/Day_4) - *September 2nd, 2021*
+* [Week 7](/Week_07)
+  * [Day 1](Week_07/Day_1) - *August 30th, 2021*
+  * [Day 2](Week_07/Day_2) - *August 31st, 2021*
+  * [Day 4](Week_07/Day_4) - *September 2nd, 2021*
 </details>
 
 <br>
@@ -120,11 +120,11 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 <details>
 <summary> Week 8 - September 5th to September 11th, 2021 </summary>
 
-* [Week 8](/Week_8)
-  * [Day 1](Week_8/Day_1) - *September 6th, 2021*
-  * [Day 2](Week_8/Day_2) - *September 7th, 2021*
-  * [Day 3](Week_8/Day_3) - *September 8th, 2021*
-  * [Day 4](Week_8/Day_4) - *September 9th, 2021*
+* [Week 8](/Week_08)
+  * [Day 1](Week_08/Day_1) - *September 6th, 2021*
+  * [Day 2](Week_08/Day_2) - *September 7th, 2021*
+  * [Day 3](Week_08/Day_3) - *September 8th, 2021*
+  * [Day 4](Week_08/Day_4) - *September 9th, 2021*
 </details>
 
 ---
@@ -132,9 +132,9 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 <details>
 <summary> Week 9 - September 12th to September 18th, 2021 </summary>
 
-* [Week 9](/Week_9)
-  * [Day 1](Week_9/Day_1) - *September 13th, 2021*
-  * [Day 2](Week_9/Day_2) - *September 14th, 2021*
+* [Week 9](/Week_09)
+  * [Day 1](Week_09/Day_1) - *September 13th, 2021*
+  * [Day 2](Week_09/Day_2) - *September 14th, 2021*
 </details>
 
 ---
