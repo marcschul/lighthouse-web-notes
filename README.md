@@ -203,7 +203,7 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
 <br>
 <br>
 
-### Module 7 - Javascript - React, Components, States
+### Module 7 - React, Components, States, WebSockets
 ---
 ### React
 <details>
@@ -286,6 +286,30 @@ This repository contains all of the notes taken by [Marc Schulmeister](https://g
   * [Day 4](Week_22/Day_4) - *December 16th, 2021*
   * [Day 1](Week_22/Day_5) - *December 17th, 2021*
 </details>
+
+---
+### Active Records, Rails, 2 Player Game, Class & Instance Variables  
+<details>
+<summary> Week 23 - January 2nd - January 8th, 2021 </summary>
+
+* [Week 23](/Week_23)
+  * [Day 1](Week_22/Day_1) - *January 3rd, 2022*
+  * [Day 2](Week_22/Day_2) - *January 4th, 2022*
+  * [Day 4](Week_22/Day_4) - *January 5th, 2022*
+</details>
+
+---
+### Rails, Jungle Project  
+<details>
+<summary> Week 24 - January 9th - January 15th, 2021 </summary>
+
+* [Week 24](/Week_24)
+  * [Day 1](Week_24/Day_1) - *January 10th, 2022*
+  * [Day 2](Week_24/Day_2) - *January 11th, 2022*
+  * [Day 3](Week_24/Day_3) - *January 12th, 2022*  
+  * [Day 4](Week_24/Day_4) - *January 13th, 2022*
+</details>
+
 
 
 
